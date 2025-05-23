@@ -1,0 +1,1001 @@
+user_id,join_date,subscription_type,country,signup_source
+U0001,2023-04-13,Premium,Germany,Mobile App
+U0002,2023-12-15,Basic,Brazil,Referral
+U0003,2023-09-28,Basic,Germany,Referral
+U0004,2023-04-17,Basic,USA,Mobile App
+U0005,2023-03-13,Basic,Brazil,Mobile App
+U0006,2023-07-08,Family,Germany,Referral
+U0007,2023-01-21,Basic,Brazil,Website
+U0008,2023-04-13,Family,UK,Mobile App
+U0009,2023-05-02,Basic,USA,Referral
+U0010,2023-08-03,Premium,Germany,Referral
+U0011,2023-11-27,Premium,UK,Referral
+U0012,2023-03-29,Premium,UK,Referral
+U0013,2023-04-10,Basic,Brazil,Website
+U0014,2023-12-26,Basic,UK,Referral
+U0015,2023-06-01,Basic,USA,Mobile App
+U0016,2023-05-11,Family,USA,Website
+U0017,2023-05-30,Family,India,Referral
+U0018,2023-11-05,Family,USA,Website
+U0019,2023-09-15,Basic,UK,Mobile App
+U0020,2023-12-10,Premium,USA,Referral
+U0021,2023-10-21,Family,Brazil,Mobile App
+U0022,2023-07-11,Basic,India,Referral
+U0023,2023-10-04,Basic,UK,Referral
+U0024,2023-06-10,Premium,India,Referral
+U0025,2023-11-10,Premium,UK,Referral
+U0026,2023-01-22,Family,Brazil,Referral
+U0027,2023-09-10,Basic,India,Website
+U0028,2023-08-24,Premium,Germany,Referral
+U0029,2023-12-11,Basic,UK,Referral
+U0030,2023-02-18,Basic,Germany,Website
+U0031,2023-02-28,Basic,India,Website
+U0032,2023-06-19,Family,Germany,Website
+U0033,2023-07-07,Premium,Germany,Website
+U0034,2023-09-28,Premium,India,Website
+U0035,2023-07-09,Basic,Brazil,Website
+U0036,2023-06-24,Family,Germany,Referral
+U0037,2023-02-20,Basic,Germany,Referral
+U0038,2023-12-30,Family,Brazil,Mobile App
+U0039,2023-02-24,Basic,Germany,Referral
+U0040,2023-09-01,Basic,Germany,Referral
+U0041,2023-11-16,Basic,Germany,Website
+U0042,2023-05-11,Basic,USA,Website
+U0043,2023-11-03,Premium,Brazil,Referral
+U0044,2023-05-15,Premium,Germany,Mobile App
+U0045,2023-01-21,Basic,Brazil,Website
+U0046,2023-11-25,Family,UK,Referral
+U0047,2023-06-16,Basic,UK,Referral
+U0048,2023-10-01,Premium,Germany,Mobile App
+U0049,2023-03-30,Family,Brazil,Mobile App
+U0050,2023-11-12,Premium,Brazil,Website
+U0051,2023-01-14,Basic,Brazil,Mobile App
+U0052,2023-08-30,Family,USA,Referral
+U0053,2023-09-22,Premium,UK,Referral
+U0054,2023-12-12,Basic,Brazil,Mobile App
+U0055,2023-02-22,Basic,Brazil,Mobile App
+U0056,2023-12-06,Premium,USA,Mobile App
+U0057,2023-04-02,Premium,USA,Mobile App
+U0058,2023-09-21,Premium,Brazil,Website
+U0059,2023-02-04,Family,India,Mobile App
+U0060,2023-07-25,Premium,Brazil,Website
+U0061,2023-03-22,Basic,Brazil,Referral
+U0062,2023-02-19,Basic,USA,Mobile App
+U0063,2023-12-26,Basic,USA,Website
+U0064,2023-01-02,Premium,Brazil,Mobile App
+U0065,2023-02-23,Basic,Brazil,Referral
+U0066,2023-04-16,Premium,Brazil,Referral
+U0067,2023-09-17,Premium,USA,Referral
+U0068,2023-11-06,Family,Brazil,Mobile App
+U0069,2023-07-10,Basic,Brazil,Mobile App
+U0070,2023-08-06,Family,Germany,Website
+U0071,2023-02-13,Basic,India,Referral
+U0072,2023-06-11,Family,UK,Mobile App
+U0073,2023-07-21,Basic,India,Referral
+U0074,2023-09-27,Basic,Germany,Referral
+U0075,2023-12-17,Premium,UK,Website
+U0076,2023-10-31,Basic,Brazil,Website
+U0077,2023-09-28,Basic,Germany,Website
+U0078,2023-08-03,Premium,Brazil,Website
+U0079,2023-09-09,Premium,USA,Referral
+U0080,2023-07-09,Premium,Germany,Website
+U0081,2023-10-23,Premium,USA,Website
+U0082,2023-08-01,Premium,Germany,Website
+U0083,2023-07-27,Basic,Germany,Website
+U0084,2023-08-25,Basic,USA,Referral
+U0085,2023-12-04,Basic,UK,Website
+U0086,2023-02-22,Family,India,Referral
+U0087,2023-10-07,Premium,Brazil,Mobile App
+U0088,2023-08-05,Basic,Germany,Referral
+U0089,2023-09-09,Basic,Brazil,Referral
+U0090,2023-07-07,Family,USA,Website
+U0091,2023-02-10,Basic,Brazil,Mobile App
+U0092,2023-06-06,Premium,USA,Mobile App
+U0093,2023-01-15,Premium,Brazil,Mobile App
+U0094,2023-10-28,Premium,India,Mobile App
+U0095,2023-03-06,Basic,India,Referral
+U0096,2023-12-11,Family,India,Mobile App
+U0097,2023-11-23,Family,India,Referral
+U0098,2023-01-09,Premium,India,Referral
+U0099,2023-12-10,Premium,India,Referral
+U0100,2023-05-09,Family,USA,Mobile App
+U0101,2023-05-16,Premium,Germany,Website
+U0102,2023-03-04,Basic,Brazil,Website
+U0103,2023-05-19,Premium,India,Mobile App
+U0104,2023-03-22,Premium,USA,Website
+U0105,2023-06-12,Basic,USA,Website
+U0106,2023-10-16,Premium,USA,Referral
+U0107,2023-09-18,Family,Germany,Referral
+U0108,2023-08-19,Family,Brazil,Mobile App
+U0109,2023-02-10,Basic,Germany,Mobile App
+U0110,2023-01-28,Basic,UK,Website
+U0111,2023-05-15,Family,USA,Referral
+U0112,2023-07-20,Family,UK,Mobile App
+U0113,2023-11-24,Basic,India,Mobile App
+U0114,2023-09-25,Family,India,Mobile App
+U0115,2023-02-02,Family,Germany,Mobile App
+U0116,2023-02-17,Premium,Brazil,Mobile App
+U0117,2023-03-03,Premium,UK,Mobile App
+U0118,2023-08-04,Basic,Brazil,Website
+U0119,2023-10-20,Basic,Germany,Referral
+U0120,2023-04-09,Basic,India,Referral
+U0121,2023-06-21,Family,Brazil,Mobile App
+U0122,2023-12-26,Basic,Brazil,Referral
+U0123,2023-08-02,Basic,India,Referral
+U0124,2023-02-04,Basic,UK,Referral
+U0125,2023-08-15,Premium,India,Mobile App
+U0126,2023-04-11,Family,Brazil,Mobile App
+U0127,2023-05-11,Basic,UK,Referral
+U0128,2023-09-14,Basic,UK,Referral
+U0129,2023-01-05,Premium,India,Mobile App
+U0130,2023-08-06,Basic,Brazil,Website
+U0131,2023-09-12,Basic,Germany,Referral
+U0132,2023-12-25,Basic,Brazil,Website
+U0133,2023-10-10,Basic,USA,Referral
+U0134,2023-07-26,Basic,Germany,Website
+U0135,2023-01-15,Basic,UK,Website
+U0136,2023-12-12,Basic,Germany,Website
+U0137,2023-02-11,Family,UK,Mobile App
+U0138,2023-06-28,Basic,UK,Website
+U0139,2023-03-04,Premium,Germany,Website
+U0140,2023-12-18,Premium,UK,Website
+U0141,2023-08-19,Basic,UK,Referral
+U0142,2023-08-29,Premium,USA,Website
+U0143,2023-02-21,Basic,Brazil,Referral
+U0144,2023-04-06,Family,Brazil,Website
+U0145,2023-08-10,Basic,USA,Website
+U0146,2023-08-19,Basic,Germany,Mobile App
+U0147,2023-08-25,Basic,India,Referral
+U0148,2023-05-23,Family,India,Website
+U0149,2023-06-20,Premium,India,Referral
+U0150,2023-01-29,Premium,USA,Referral
+U0151,2023-02-05,Basic,USA,Mobile App
+U0152,2023-01-13,Premium,UK,Mobile App
+U0153,2023-06-09,Basic,India,Mobile App
+U0154,2023-11-23,Family,Germany,Mobile App
+U0155,2023-07-06,Basic,Germany,Mobile App
+U0156,2023-08-31,Basic,India,Mobile App
+U0157,2023-03-27,Basic,India,Mobile App
+U0158,2023-10-11,Basic,India,Mobile App
+U0159,2023-03-07,Premium,USA,Website
+U0160,2023-06-19,Basic,USA,Referral
+U0161,2023-02-14,Premium,USA,Mobile App
+U0162,2023-03-03,Basic,Brazil,Mobile App
+U0163,2023-05-14,Premium,Germany,Referral
+U0164,2023-10-11,Basic,Germany,Website
+U0165,2023-01-28,Basic,UK,Referral
+U0166,2023-04-18,Premium,USA,Referral
+U0167,2023-02-13,Basic,Brazil,Mobile App
+U0168,2023-12-06,Basic,Brazil,Referral
+U0169,2023-10-13,Family,Germany,Referral
+U0170,2023-11-27,Family,USA,Mobile App
+U0171,2023-05-08,Basic,UK,Mobile App
+U0172,2023-12-14,Basic,USA,Mobile App
+U0173,2023-08-19,Premium,India,Mobile App
+U0174,2023-07-09,Basic,USA,Referral
+U0175,2023-08-13,Basic,India,Referral
+U0176,2023-10-10,Basic,India,Website
+U0177,2023-05-01,Premium,UK,Website
+U0178,2023-04-26,Premium,Germany,Referral
+U0179,2023-08-21,Basic,USA,Website
+U0180,2023-09-16,Basic,India,Referral
+U0181,2023-12-25,Basic,USA,Website
+U0182,2023-07-17,Premium,Germany,Mobile App
+U0183,2023-05-17,Basic,Germany,Website
+U0184,2023-11-14,Basic,Brazil,Mobile App
+U0185,2023-06-14,Premium,Germany,Mobile App
+U0186,2023-08-13,Basic,UK,Mobile App
+U0187,2023-11-03,Premium,India,Mobile App
+U0188,2023-08-22,Basic,Brazil,Website
+U0189,2023-06-21,Basic,UK,Referral
+U0190,2023-06-01,Basic,USA,Mobile App
+U0191,2023-11-11,Premium,India,Website
+U0192,2023-06-09,Family,Germany,Mobile App
+U0193,2023-04-06,Family,India,Website
+U0194,2023-08-21,Basic,USA,Website
+U0195,2023-06-29,Premium,Brazil,Website
+U0196,2023-04-23,Basic,Brazil,Referral
+U0197,2023-11-14,Basic,Brazil,Website
+U0198,2023-02-21,Family,Germany,Website
+U0199,2023-09-25,Basic,UK,Referral
+U0200,2023-10-22,Basic,UK,Referral
+U0201,2023-04-23,Basic,India,Website
+U0202,2023-04-11,Basic,Germany,Referral
+U0203,2023-04-23,Basic,Brazil,Mobile App
+U0204,2023-03-22,Premium,Brazil,Mobile App
+U0205,2023-07-06,Basic,USA,Referral
+U0206,2023-04-23,Family,USA,Referral
+U0207,2023-01-02,Family,Brazil,Website
+U0208,2023-05-10,Basic,Brazil,Referral
+U0209,2023-08-08,Basic,Germany,Website
+U0210,2023-02-23,Basic,UK,Mobile App
+U0211,2023-12-09,Premium,USA,Referral
+U0212,2023-08-12,Basic,UK,Website
+U0213,2023-08-13,Premium,Germany,Website
+U0214,2023-05-06,Basic,Brazil,Mobile App
+U0215,2023-05-10,Premium,UK,Referral
+U0216,2023-02-22,Basic,Brazil,Mobile App
+U0217,2023-06-21,Basic,Brazil,Website
+U0218,2023-08-06,Family,India,Website
+U0219,2023-06-09,Premium,UK,Referral
+U0220,2023-07-17,Basic,UK,Website
+U0221,2023-09-04,Family,Brazil,Referral
+U0222,2023-11-20,Basic,Germany,Mobile App
+U0223,2023-07-22,Family,India,Referral
+U0224,2023-07-03,Premium,Brazil,Referral
+U0225,2023-05-03,Basic,USA,Website
+U0226,2023-09-12,Basic,USA,Website
+U0227,2023-10-21,Basic,India,Referral
+U0228,2023-10-07,Premium,Germany,Website
+U0229,2023-11-21,Premium,Brazil,Website
+U0230,2023-04-08,Basic,UK,Website
+U0231,2023-07-17,Basic,India,Referral
+U0232,2023-08-28,Family,Germany,Website
+U0233,2023-05-24,Family,UK,Referral
+U0234,2023-04-07,Premium,USA,Website
+U0235,2023-07-20,Basic,USA,Mobile App
+U0236,2023-05-04,Basic,UK,Website
+U0237,2023-07-06,Basic,India,Website
+U0238,2023-11-22,Family,USA,Referral
+U0239,2023-12-15,Basic,Brazil,Referral
+U0240,2023-09-16,Premium,UK,Website
+U0241,2023-05-28,Basic,UK,Mobile App
+U0242,2023-09-09,Premium,USA,Website
+U0243,2023-12-12,Premium,India,Website
+U0244,2023-05-27,Family,Brazil,Mobile App
+U0245,2023-05-28,Basic,India,Referral
+U0246,2023-12-18,Basic,Germany,Website
+U0247,2023-07-18,Basic,Germany,Referral
+U0248,2023-11-04,Family,USA,Referral
+U0249,2023-05-08,Family,USA,Mobile App
+U0250,2023-02-08,Premium,USA,Mobile App
+U0251,2023-12-04,Premium,Germany,Referral
+U0252,2023-12-26,Premium,India,Website
+U0253,2023-05-09,Basic,India,Referral
+U0254,2023-09-24,Family,USA,Website
+U0255,2023-05-31,Basic,Brazil,Website
+U0256,2023-10-25,Basic,India,Mobile App
+U0257,2023-04-09,Premium,Germany,Website
+U0258,2023-09-20,Basic,UK,Website
+U0259,2023-09-09,Basic,UK,Referral
+U0260,2023-05-24,Premium,UK,Mobile App
+U0261,2023-12-12,Basic,Brazil,Website
+U0262,2023-04-22,Premium,USA,Website
+U0263,2023-03-01,Basic,Germany,Mobile App
+U0264,2023-01-02,Basic,Brazil,Referral
+U0265,2023-10-31,Basic,Germany,Mobile App
+U0266,2023-09-11,Basic,Germany,Mobile App
+U0267,2023-05-20,Premium,USA,Website
+U0268,2023-02-06,Basic,UK,Website
+U0269,2023-06-09,Premium,USA,Referral
+U0270,2023-01-09,Basic,Brazil,Website
+U0271,2023-08-21,Premium,Brazil,Website
+U0272,2023-04-09,Family,Brazil,Mobile App
+U0273,2023-05-27,Premium,USA,Website
+U0274,2023-10-31,Basic,Germany,Referral
+U0275,2023-07-27,Basic,Germany,Mobile App
+U0276,2023-05-11,Basic,India,Referral
+U0277,2023-06-01,Premium,Brazil,Mobile App
+U0278,2023-02-23,Basic,Germany,Website
+U0279,2023-04-30,Basic,India,Mobile App
+U0280,2023-06-10,Premium,Germany,Mobile App
+U0281,2023-04-26,Basic,Brazil,Website
+U0282,2023-03-16,Premium,UK,Website
+U0283,2023-04-23,Basic,Brazil,Referral
+U0284,2023-04-14,Basic,USA,Referral
+U0285,2023-12-06,Premium,Germany,Website
+U0286,2023-09-11,Basic,Germany,Website
+U0287,2023-08-15,Premium,USA,Website
+U0288,2023-04-22,Basic,USA,Mobile App
+U0289,2023-04-09,Basic,UK,Mobile App
+U0290,2023-06-02,Family,Germany,Mobile App
+U0291,2023-12-15,Premium,Germany,Website
+U0292,2023-12-04,Premium,UK,Referral
+U0293,2023-07-13,Basic,India,Website
+U0294,2023-11-06,Premium,UK,Mobile App
+U0295,2023-06-12,Basic,Brazil,Mobile App
+U0296,2023-07-27,Basic,Germany,Website
+U0297,2023-06-18,Family,USA,Website
+U0298,2023-06-10,Basic,Brazil,Mobile App
+U0299,2023-03-09,Family,Germany,Mobile App
+U0300,2023-10-16,Basic,UK,Mobile App
+U0301,2023-10-04,Basic,Brazil,Website
+U0302,2023-10-31,Premium,Germany,Mobile App
+U0303,2023-05-15,Family,India,Mobile App
+U0304,2023-07-14,Premium,India,Referral
+U0305,2023-05-08,Family,USA,Website
+U0306,2023-02-02,Premium,Germany,Referral
+U0307,2023-06-25,Premium,India,Referral
+U0308,2023-01-22,Family,UK,Mobile App
+U0309,2023-08-26,Basic,Germany,Website
+U0310,2023-06-07,Basic,UK,Mobile App
+U0311,2023-02-07,Basic,UK,Website
+U0312,2023-08-18,Family,India,Referral
+U0313,2023-12-31,Family,Germany,Website
+U0314,2023-02-20,Basic,Brazil,Mobile App
+U0315,2023-09-21,Premium,India,Mobile App
+U0316,2023-10-10,Family,India,Mobile App
+U0317,2023-01-27,Basic,Germany,Website
+U0318,2023-08-14,Premium,Germany,Referral
+U0319,2023-10-04,Family,UK,Referral
+U0320,2023-10-13,Basic,Germany,Website
+U0321,2023-04-07,Premium,UK,Mobile App
+U0322,2023-10-11,Basic,India,Referral
+U0323,2023-11-13,Family,USA,Mobile App
+U0324,2023-10-31,Family,Brazil,Website
+U0325,2023-05-27,Family,India,Mobile App
+U0326,2023-01-04,Basic,Germany,Referral
+U0327,2023-02-04,Family,Brazil,Referral
+U0328,2023-07-11,Family,USA,Mobile App
+U0329,2023-02-18,Basic,USA,Website
+U0330,2023-01-17,Family,UK,Mobile App
+U0331,2023-06-21,Basic,Brazil,Website
+U0332,2023-08-08,Premium,UK,Mobile App
+U0333,2023-06-07,Basic,India,Referral
+U0334,2023-02-15,Basic,Brazil,Website
+U0335,2023-01-06,Basic,India,Website
+U0336,2023-04-09,Premium,UK,Website
+U0337,2023-08-21,Basic,Brazil,Referral
+U0338,2023-02-06,Premium,UK,Mobile App
+U0339,2023-10-07,Basic,Brazil,Referral
+U0340,2023-12-15,Basic,UK,Website
+U0341,2023-10-29,Premium,USA,Mobile App
+U0342,2023-06-30,Premium,UK,Referral
+U0343,2023-04-05,Basic,USA,Website
+U0344,2023-04-09,Premium,UK,Website
+U0345,2023-07-07,Family,Brazil,Referral
+U0346,2023-04-26,Premium,Brazil,Referral
+U0347,2023-07-10,Basic,Brazil,Referral
+U0348,2023-09-10,Basic,Germany,Website
+U0349,2023-06-10,Family,India,Referral
+U0350,2023-09-13,Basic,Brazil,Website
+U0351,2023-11-19,Family,USA,Referral
+U0352,2023-05-08,Premium,Brazil,Website
+U0353,2023-01-18,Family,Germany,Website
+U0354,2023-10-08,Premium,USA,Mobile App
+U0355,2023-08-11,Family,Germany,Referral
+U0356,2023-02-23,Basic,USA,Referral
+U0357,2023-02-27,Premium,UK,Website
+U0358,2023-11-19,Basic,India,Website
+U0359,2023-12-26,Basic,India,Website
+U0360,2023-06-23,Premium,Germany,Mobile App
+U0361,2023-10-07,Family,India,Mobile App
+U0362,2023-04-24,Family,Germany,Website
+U0363,2023-10-15,Premium,Germany,Referral
+U0364,2023-12-08,Basic,Germany,Referral
+U0365,2023-05-31,Basic,India,Mobile App
+U0366,2023-05-07,Premium,Germany,Mobile App
+U0367,2023-06-04,Basic,India,Website
+U0368,2023-09-30,Basic,Germany,Referral
+U0369,2023-04-14,Basic,Brazil,Website
+U0370,2023-10-26,Basic,Germany,Mobile App
+U0371,2023-09-03,Basic,USA,Referral
+U0372,2023-06-25,Basic,Germany,Referral
+U0373,2023-02-08,Basic,UK,Mobile App
+U0374,2023-06-19,Basic,Germany,Website
+U0375,2023-09-04,Family,USA,Website
+U0376,2023-01-26,Basic,USA,Referral
+U0377,2023-12-21,Basic,India,Mobile App
+U0378,2023-11-02,Premium,Brazil,Referral
+U0379,2023-01-13,Basic,Germany,Mobile App
+U0380,2023-11-12,Family,India,Website
+U0381,2023-11-09,Premium,Brazil,Mobile App
+U0382,2023-02-05,Basic,Germany,Website
+U0383,2023-06-22,Basic,UK,Mobile App
+U0384,2023-01-20,Family,Germany,Referral
+U0385,2023-11-17,Family,USA,Website
+U0386,2023-09-21,Basic,USA,Referral
+U0387,2023-05-22,Premium,UK,Referral
+U0388,2023-05-23,Basic,India,Website
+U0389,2023-04-02,Family,Brazil,Website
+U0390,2023-12-20,Basic,Germany,Referral
+U0391,2023-11-18,Family,USA,Referral
+U0392,2023-10-15,Premium,India,Referral
+U0393,2023-08-03,Premium,UK,Referral
+U0394,2023-12-08,Premium,USA,Website
+U0395,2023-02-20,Basic,UK,Website
+U0396,2023-06-02,Basic,Germany,Referral
+U0397,2023-07-05,Basic,Brazil,Mobile App
+U0398,2023-03-04,Basic,USA,Mobile App
+U0399,2023-07-09,Premium,USA,Website
+U0400,2023-05-05,Basic,Germany,Referral
+U0401,2023-05-30,Basic,India,Referral
+U0402,2023-11-10,Family,Brazil,Website
+U0403,2023-02-27,Family,USA,Mobile App
+U0404,2023-12-08,Family,Brazil,Mobile App
+U0405,2023-11-01,Family,USA,Mobile App
+U0406,2023-06-29,Basic,Brazil,Website
+U0407,2023-06-19,Basic,UK,Mobile App
+U0408,2023-11-22,Premium,USA,Website
+U0409,2023-09-28,Premium,Brazil,Website
+U0410,2023-02-23,Basic,India,Referral
+U0411,2023-04-11,Family,UK,Mobile App
+U0412,2023-09-21,Basic,UK,Website
+U0413,2023-02-22,Basic,India,Mobile App
+U0414,2023-03-01,Premium,Brazil,Mobile App
+U0415,2023-04-18,Premium,Germany,Referral
+U0416,2023-01-05,Premium,India,Mobile App
+U0417,2023-04-13,Basic,Brazil,Referral
+U0418,2023-07-15,Family,India,Website
+U0419,2023-09-19,Basic,India,Mobile App
+U0420,2023-12-31,Basic,USA,Website
+U0421,2023-12-16,Family,Brazil,Mobile App
+U0422,2023-02-16,Family,Germany,Website
+U0423,2023-12-21,Family,USA,Mobile App
+U0424,2023-11-07,Family,India,Mobile App
+U0425,2023-11-04,Premium,India,Mobile App
+U0426,2023-05-24,Premium,India,Mobile App
+U0427,2023-09-26,Basic,Brazil,Mobile App
+U0428,2023-05-04,Basic,Brazil,Mobile App
+U0429,2023-04-16,Basic,USA,Mobile App
+U0430,2023-06-07,Basic,Germany,Mobile App
+U0431,2023-05-27,Premium,USA,Mobile App
+U0432,2023-05-25,Basic,UK,Website
+U0433,2023-04-30,Basic,India,Referral
+U0434,2023-11-15,Basic,India,Mobile App
+U0435,2023-10-02,Premium,India,Referral
+U0436,2023-04-02,Basic,USA,Mobile App
+U0437,2023-02-27,Family,USA,Mobile App
+U0438,2023-12-12,Basic,India,Website
+U0439,2023-08-17,Basic,USA,Website
+U0440,2023-04-27,Premium,Brazil,Referral
+U0441,2023-11-14,Family,Brazil,Website
+U0442,2023-10-06,Basic,USA,Website
+U0443,2023-05-07,Premium,India,Referral
+U0444,2023-05-09,Premium,USA,Website
+U0445,2023-02-27,Basic,USA,Mobile App
+U0446,2023-05-02,Family,USA,Referral
+U0447,2023-01-01,Premium,UK,Referral
+U0448,2023-08-27,Premium,Brazil,Mobile App
+U0449,2023-10-17,Family,Germany,Website
+U0450,2023-04-06,Family,Germany,Referral
+U0451,2023-05-06,Premium,UK,Referral
+U0452,2023-04-28,Family,USA,Mobile App
+U0453,2023-02-17,Premium,UK,Mobile App
+U0454,2023-03-30,Premium,UK,Website
+U0455,2023-08-25,Premium,India,Referral
+U0456,2023-09-29,Premium,Brazil,Website
+U0457,2023-07-08,Basic,Germany,Website
+U0458,2023-07-11,Family,USA,Mobile App
+U0459,2023-03-10,Family,Germany,Referral
+U0460,2023-10-05,Basic,Germany,Referral
+U0461,2023-12-15,Family,Brazil,Referral
+U0462,2023-09-04,Basic,Germany,Mobile App
+U0463,2023-03-17,Basic,Germany,Mobile App
+U0464,2023-06-03,Premium,UK,Mobile App
+U0465,2023-05-24,Basic,Brazil,Mobile App
+U0466,2023-03-27,Family,India,Mobile App
+U0467,2023-07-04,Family,USA,Referral
+U0468,2023-10-12,Premium,Germany,Website
+U0469,2023-08-08,Basic,USA,Referral
+U0470,2023-03-10,Basic,India,Website
+U0471,2023-02-16,Premium,USA,Mobile App
+U0472,2023-04-04,Family,India,Website
+U0473,2023-08-26,Premium,UK,Referral
+U0474,2023-07-23,Basic,Germany,Referral
+U0475,2023-08-06,Premium,India,Website
+U0476,2023-12-07,Premium,USA,Mobile App
+U0477,2023-02-08,Premium,Germany,Mobile App
+U0478,2023-04-10,Basic,UK,Referral
+U0479,2023-10-16,Premium,Germany,Website
+U0480,2023-09-11,Premium,India,Mobile App
+U0481,2023-08-10,Family,UK,Mobile App
+U0482,2023-12-23,Basic,USA,Referral
+U0483,2023-01-23,Premium,UK,Mobile App
+U0484,2023-09-07,Family,UK,Website
+U0485,2023-01-10,Basic,Brazil,Referral
+U0486,2023-09-03,Family,UK,Referral
+U0487,2023-11-21,Premium,UK,Website
+U0488,2023-04-10,Basic,Germany,Referral
+U0489,2023-10-17,Basic,USA,Mobile App
+U0490,2023-06-29,Premium,Germany,Mobile App
+U0491,2023-08-11,Basic,Germany,Website
+U0492,2023-09-07,Premium,India,Mobile App
+U0493,2023-05-27,Basic,Germany,Website
+U0494,2023-04-06,Premium,Brazil,Website
+U0495,2023-09-14,Basic,Brazil,Mobile App
+U0496,2023-11-21,Family,India,Website
+U0497,2023-01-04,Family,USA,Mobile App
+U0498,2023-01-16,Family,USA,Referral
+U0499,2023-10-07,Premium,Germany,Referral
+U0500,2023-12-02,Basic,Germany,Website
+U0501,2023-09-04,Premium,Germany,Mobile App
+U0502,2023-09-15,Basic,USA,Mobile App
+U0503,2023-06-09,Basic,UK,Referral
+U0504,2023-12-06,Basic,Brazil,Referral
+U0505,2023-06-01,Basic,UK,Mobile App
+U0506,2023-06-27,Premium,UK,Website
+U0507,2023-06-12,Premium,USA,Referral
+U0508,2023-02-02,Basic,UK,Website
+U0509,2023-06-28,Basic,India,Website
+U0510,2023-04-11,Family,Germany,Referral
+U0511,2023-09-25,Basic,India,Website
+U0512,2023-11-19,Basic,Brazil,Website
+U0513,2023-03-06,Basic,Germany,Mobile App
+U0514,2023-06-17,Premium,UK,Website
+U0515,2023-11-26,Premium,Brazil,Mobile App
+U0516,2023-02-12,Basic,Germany,Referral
+U0517,2023-02-13,Basic,UK,Referral
+U0518,2023-10-12,Premium,India,Mobile App
+U0519,2023-01-12,Premium,Germany,Referral
+U0520,2023-04-05,Basic,UK,Website
+U0521,2023-10-29,Family,India,Website
+U0522,2023-09-10,Basic,Brazil,Website
+U0523,2023-08-30,Basic,Brazil,Referral
+U0524,2023-02-04,Family,Brazil,Website
+U0525,2023-08-03,Basic,Brazil,Referral
+U0526,2023-12-03,Premium,USA,Website
+U0527,2023-03-31,Basic,Germany,Mobile App
+U0528,2023-09-21,Basic,Germany,Referral
+U0529,2023-04-03,Family,USA,Referral
+U0530,2023-03-31,Basic,UK,Website
+U0531,2023-04-25,Family,UK,Referral
+U0532,2023-04-15,Basic,Brazil,Referral
+U0533,2023-07-15,Basic,India,Mobile App
+U0534,2023-11-10,Basic,UK,Mobile App
+U0535,2023-04-24,Premium,India,Website
+U0536,2023-03-16,Basic,Germany,Mobile App
+U0537,2023-08-05,Family,India,Website
+U0538,2023-10-04,Basic,Germany,Website
+U0539,2023-09-06,Family,USA,Website
+U0540,2023-06-13,Basic,USA,Referral
+U0541,2023-12-23,Family,Brazil,Mobile App
+U0542,2023-07-11,Premium,UK,Website
+U0543,2023-08-15,Premium,Brazil,Mobile App
+U0544,2023-06-26,Family,Germany,Website
+U0545,2023-04-09,Premium,Brazil,Mobile App
+U0546,2023-02-05,Premium,India,Mobile App
+U0547,2023-04-06,Basic,Germany,Website
+U0548,2023-06-01,Basic,USA,Referral
+U0549,2023-05-31,Family,UK,Mobile App
+U0550,2023-07-09,Premium,Germany,Referral
+U0551,2023-08-12,Premium,Germany,Referral
+U0552,2023-02-06,Basic,India,Website
+U0553,2023-09-25,Basic,UK,Website
+U0554,2023-07-02,Basic,USA,Website
+U0555,2023-01-13,Premium,Germany,Mobile App
+U0556,2023-10-06,Basic,Germany,Website
+U0557,2023-08-05,Basic,India,Website
+U0558,2023-12-21,Basic,Brazil,Mobile App
+U0559,2023-12-27,Basic,USA,Mobile App
+U0560,2023-10-13,Premium,UK,Website
+U0561,2023-09-30,Basic,Germany,Website
+U0562,2023-03-03,Premium,Germany,Website
+U0563,2023-03-25,Basic,USA,Website
+U0564,2023-08-05,Basic,Brazil,Referral
+U0565,2023-12-08,Basic,Germany,Referral
+U0566,2023-07-06,Basic,USA,Website
+U0567,2023-01-19,Basic,India,Referral
+U0568,2023-06-26,Basic,Brazil,Mobile App
+U0569,2023-04-10,Premium,UK,Referral
+U0570,2023-08-21,Basic,Germany,Referral
+U0571,2023-03-17,Premium,USA,Website
+U0572,2023-09-22,Family,India,Referral
+U0573,2023-10-11,Premium,UK,Referral
+U0574,2023-07-25,Basic,USA,Referral
+U0575,2023-08-11,Basic,USA,Referral
+U0576,2023-02-21,Basic,UK,Mobile App
+U0577,2023-12-05,Basic,India,Website
+U0578,2023-05-24,Family,India,Website
+U0579,2023-03-10,Basic,Brazil,Mobile App
+U0580,2023-04-09,Basic,Germany,Referral
+U0581,2023-01-25,Premium,UK,Mobile App
+U0582,2023-02-22,Premium,UK,Referral
+U0583,2023-05-31,Premium,UK,Mobile App
+U0584,2023-05-24,Basic,India,Website
+U0585,2023-02-26,Basic,Germany,Website
+U0586,2023-02-08,Premium,Brazil,Website
+U0587,2023-04-19,Basic,USA,Referral
+U0588,2023-06-30,Basic,USA,Referral
+U0589,2023-02-11,Basic,UK,Mobile App
+U0590,2023-07-05,Basic,Germany,Mobile App
+U0591,2023-08-11,Basic,India,Website
+U0592,2023-05-02,Basic,Germany,Referral
+U0593,2023-05-13,Premium,Germany,Mobile App
+U0594,2023-06-12,Premium,India,Referral
+U0595,2023-08-03,Family,UK,Referral
+U0596,2023-08-09,Basic,Germany,Website
+U0597,2023-08-23,Basic,USA,Website
+U0598,2023-11-27,Basic,India,Referral
+U0599,2023-05-26,Premium,Brazil,Referral
+U0600,2023-08-27,Premium,UK,Referral
+U0601,2023-03-17,Basic,India,Referral
+U0602,2023-01-09,Family,Brazil,Website
+U0603,2023-03-15,Basic,Brazil,Mobile App
+U0604,2023-09-10,Premium,Germany,Website
+U0605,2023-08-18,Premium,Germany,Mobile App
+U0606,2023-01-07,Family,Germany,Referral
+U0607,2023-06-23,Premium,India,Mobile App
+U0608,2023-05-21,Family,India,Website
+U0609,2023-06-17,Basic,UK,Website
+U0610,2023-06-19,Family,Germany,Referral
+U0611,2023-10-10,Basic,Brazil,Website
+U0612,2023-05-02,Family,USA,Referral
+U0613,2023-07-13,Premium,UK,Website
+U0614,2023-01-05,Family,India,Website
+U0615,2023-01-29,Basic,UK,Referral
+U0616,2023-06-14,Premium,UK,Mobile App
+U0617,2023-12-05,Premium,UK,Website
+U0618,2023-05-16,Premium,UK,Mobile App
+U0619,2023-12-31,Basic,USA,Website
+U0620,2023-11-17,Basic,Germany,Website
+U0621,2023-12-08,Basic,Brazil,Website
+U0622,2023-05-25,Basic,UK,Website
+U0623,2023-11-23,Family,UK,Mobile App
+U0624,2023-08-05,Basic,UK,Mobile App
+U0625,2023-10-28,Family,Germany,Website
+U0626,2023-05-12,Basic,India,Website
+U0627,2023-10-19,Basic,India,Mobile App
+U0628,2023-03-11,Premium,USA,Referral
+U0629,2023-09-09,Premium,India,Referral
+U0630,2023-10-02,Basic,UK,Mobile App
+U0631,2023-12-30,Premium,UK,Website
+U0632,2023-07-01,Premium,UK,Website
+U0633,2023-06-16,Basic,USA,Referral
+U0634,2023-04-01,Family,UK,Referral
+U0635,2023-07-21,Family,India,Mobile App
+U0636,2023-12-12,Premium,Germany,Referral
+U0637,2023-01-19,Basic,Germany,Mobile App
+U0638,2023-02-08,Premium,Brazil,Referral
+U0639,2023-05-06,Basic,India,Referral
+U0640,2023-06-22,Basic,UK,Referral
+U0641,2023-05-21,Basic,Germany,Website
+U0642,2023-08-30,Basic,India,Website
+U0643,2023-08-08,Family,Germany,Website
+U0644,2023-05-06,Premium,UK,Referral
+U0645,2023-02-27,Premium,Germany,Mobile App
+U0646,2023-05-28,Basic,Brazil,Mobile App
+U0647,2023-11-13,Basic,Brazil,Mobile App
+U0648,2023-12-27,Basic,Germany,Mobile App
+U0649,2023-01-01,Family,India,Website
+U0650,2023-12-14,Basic,India,Website
+U0651,2023-07-09,Family,India,Referral
+U0652,2023-07-10,Premium,Germany,Referral
+U0653,2023-11-08,Basic,India,Mobile App
+U0654,2023-04-27,Premium,UK,Website
+U0655,2023-05-14,Basic,Brazil,Mobile App
+U0656,2023-02-27,Family,UK,Referral
+U0657,2023-02-13,Family,India,Referral
+U0658,2023-06-22,Basic,UK,Mobile App
+U0659,2023-06-09,Basic,India,Referral
+U0660,2023-06-22,Premium,Germany,Mobile App
+U0661,2023-11-13,Family,UK,Website
+U0662,2023-10-30,Basic,Germany,Mobile App
+U0663,2023-05-29,Premium,Germany,Website
+U0664,2023-03-21,Premium,USA,Website
+U0665,2023-08-01,Premium,India,Referral
+U0666,2023-07-22,Basic,Brazil,Referral
+U0667,2023-09-09,Premium,India,Referral
+U0668,2023-08-17,Family,Brazil,Mobile App
+U0669,2023-06-13,Basic,India,Mobile App
+U0670,2023-08-15,Basic,Germany,Referral
+U0671,2023-05-27,Family,UK,Mobile App
+U0672,2023-01-20,Basic,UK,Referral
+U0673,2023-02-16,Family,USA,Mobile App
+U0674,2023-08-21,Basic,Brazil,Website
+U0675,2023-11-01,Basic,Brazil,Website
+U0676,2023-01-14,Family,Brazil,Referral
+U0677,2023-05-23,Basic,Germany,Mobile App
+U0678,2023-01-01,Premium,Brazil,Mobile App
+U0679,2023-02-23,Basic,UK,Website
+U0680,2023-09-16,Premium,Germany,Website
+U0681,2023-05-24,Basic,India,Referral
+U0682,2023-01-12,Basic,Brazil,Website
+U0683,2023-11-26,Family,Brazil,Referral
+U0684,2023-08-12,Basic,India,Website
+U0685,2023-09-29,Premium,Brazil,Website
+U0686,2023-12-24,Basic,India,Mobile App
+U0687,2023-06-05,Premium,Germany,Website
+U0688,2023-01-08,Basic,UK,Website
+U0689,2023-05-02,Family,India,Referral
+U0690,2023-12-14,Basic,USA,Website
+U0691,2023-06-13,Basic,India,Referral
+U0692,2023-03-31,Basic,Brazil,Website
+U0693,2023-05-16,Basic,Germany,Website
+U0694,2023-07-05,Premium,Germany,Referral
+U0695,2023-11-12,Basic,India,Mobile App
+U0696,2023-06-27,Family,UK,Referral
+U0697,2023-01-28,Basic,USA,Referral
+U0698,2023-08-08,Basic,Germany,Referral
+U0699,2023-12-23,Premium,Brazil,Mobile App
+U0700,2023-02-10,Premium,Brazil,Website
+U0701,2023-08-16,Basic,UK,Referral
+U0702,2023-07-11,Basic,Germany,Referral
+U0703,2023-05-25,Basic,India,Mobile App
+U0704,2023-07-20,Premium,Brazil,Referral
+U0705,2023-07-31,Premium,UK,Website
+U0706,2023-08-08,Basic,Germany,Mobile App
+U0707,2023-08-28,Family,Germany,Website
+U0708,2023-02-15,Family,Germany,Website
+U0709,2023-02-04,Premium,Germany,Mobile App
+U0710,2023-09-10,Family,Germany,Referral
+U0711,2023-03-23,Basic,Brazil,Website
+U0712,2023-09-13,Basic,UK,Website
+U0713,2023-07-16,Basic,Germany,Website
+U0714,2023-10-30,Basic,USA,Website
+U0715,2023-01-10,Premium,USA,Mobile App
+U0716,2023-11-08,Family,UK,Mobile App
+U0717,2023-10-13,Basic,India,Website
+U0718,2023-08-30,Basic,India,Referral
+U0719,2023-09-08,Basic,India,Website
+U0720,2023-12-31,Family,USA,Referral
+U0721,2023-01-05,Basic,India,Website
+U0722,2023-04-29,Premium,Brazil,Referral
+U0723,2023-10-16,Basic,Germany,Website
+U0724,2023-03-06,Basic,USA,Referral
+U0725,2023-05-26,Family,UK,Website
+U0726,2023-08-12,Family,UK,Website
+U0727,2023-08-27,Basic,Germany,Referral
+U0728,2023-06-26,Family,USA,Mobile App
+U0729,2023-09-24,Premium,India,Referral
+U0730,2023-12-07,Family,India,Mobile App
+U0731,2023-10-09,Basic,Brazil,Website
+U0732,2023-03-04,Premium,Brazil,Referral
+U0733,2023-08-05,Basic,India,Referral
+U0734,2023-12-08,Premium,UK,Referral
+U0735,2023-11-11,Basic,UK,Mobile App
+U0736,2023-10-10,Basic,Brazil,Mobile App
+U0737,2023-06-26,Basic,Germany,Website
+U0738,2023-04-08,Premium,India,Mobile App
+U0739,2023-04-15,Basic,Brazil,Mobile App
+U0740,2023-04-09,Premium,Brazil,Website
+U0741,2023-11-07,Family,India,Referral
+U0742,2023-01-06,Basic,India,Referral
+U0743,2023-07-16,Premium,UK,Website
+U0744,2023-12-17,Basic,Germany,Referral
+U0745,2023-05-13,Family,Germany,Mobile App
+U0746,2023-12-24,Basic,India,Website
+U0747,2023-09-16,Premium,USA,Website
+U0748,2023-01-23,Family,Brazil,Website
+U0749,2023-02-22,Family,Brazil,Referral
+U0750,2023-06-14,Premium,India,Website
+U0751,2023-07-21,Basic,USA,Website
+U0752,2023-03-24,Premium,UK,Website
+U0753,2023-05-25,Family,India,Referral
+U0754,2023-03-26,Premium,India,Mobile App
+U0755,2023-03-19,Basic,Brazil,Website
+U0756,2023-01-01,Family,India,Mobile App
+U0757,2023-02-20,Premium,India,Referral
+U0758,2023-06-22,Premium,India,Referral
+U0759,2023-07-24,Basic,Brazil,Referral
+U0760,2023-09-17,Premium,UK,Referral
+U0761,2023-10-15,Basic,UK,Mobile App
+U0762,2023-02-03,Premium,India,Website
+U0763,2023-12-14,Basic,Brazil,Referral
+U0764,2023-04-05,Premium,UK,Referral
+U0765,2023-03-13,Family,UK,Mobile App
+U0766,2023-02-08,Basic,UK,Mobile App
+U0767,2023-06-03,Family,Brazil,Referral
+U0768,2023-09-07,Basic,Brazil,Website
+U0769,2023-06-11,Family,India,Website
+U0770,2023-04-28,Premium,Germany,Referral
+U0771,2023-09-16,Premium,UK,Mobile App
+U0772,2023-11-02,Premium,Germany,Referral
+U0773,2023-09-25,Family,Brazil,Referral
+U0774,2023-02-23,Basic,Brazil,Mobile App
+U0775,2023-08-24,Basic,Brazil,Referral
+U0776,2023-08-10,Premium,Germany,Referral
+U0777,2023-09-08,Family,Brazil,Referral
+U0778,2023-11-09,Premium,India,Mobile App
+U0779,2023-04-22,Premium,Brazil,Website
+U0780,2023-09-12,Basic,USA,Website
+U0781,2023-10-30,Family,Germany,Mobile App
+U0782,2023-07-26,Basic,USA,Website
+U0783,2023-08-17,Premium,Brazil,Referral
+U0784,2023-12-07,Basic,India,Website
+U0785,2023-03-07,Basic,UK,Referral
+U0786,2023-03-16,Basic,Brazil,Website
+U0787,2023-04-13,Basic,India,Mobile App
+U0788,2023-07-11,Premium,Germany,Website
+U0789,2023-09-09,Basic,USA,Website
+U0790,2023-08-14,Basic,USA,Website
+U0791,2023-10-21,Basic,USA,Mobile App
+U0792,2023-11-02,Basic,Germany,Website
+U0793,2023-04-08,Basic,India,Mobile App
+U0794,2023-12-04,Basic,Germany,Referral
+U0795,2023-10-13,Premium,USA,Website
+U0796,2023-12-01,Premium,Brazil,Mobile App
+U0797,2023-12-13,Premium,UK,Mobile App
+U0798,2023-11-04,Basic,Germany,Website
+U0799,2023-09-06,Basic,Germany,Referral
+U0800,2023-06-15,Family,India,Mobile App
+U0801,2023-12-01,Premium,India,Website
+U0802,2023-01-30,Basic,Germany,Referral
+U0803,2023-09-04,Basic,USA,Mobile App
+U0804,2023-04-16,Basic,UK,Mobile App
+U0805,2023-02-20,Basic,India,Referral
+U0806,2023-03-22,Basic,USA,Referral
+U0807,2023-05-13,Premium,Brazil,Website
+U0808,2023-10-12,Premium,India,Website
+U0809,2023-05-18,Premium,USA,Mobile App
+U0810,2023-07-03,Premium,USA,Referral
+U0811,2023-11-26,Family,UK,Referral
+U0812,2023-09-30,Premium,UK,Referral
+U0813,2023-12-06,Family,Brazil,Mobile App
+U0814,2023-03-10,Basic,USA,Referral
+U0815,2023-02-03,Basic,USA,Referral
+U0816,2023-09-19,Basic,UK,Mobile App
+U0817,2023-02-22,Premium,India,Website
+U0818,2023-07-24,Family,India,Website
+U0819,2023-05-06,Basic,Germany,Mobile App
+U0820,2023-08-23,Family,UK,Referral
+U0821,2023-02-12,Basic,Germany,Mobile App
+U0822,2023-08-28,Family,UK,Website
+U0823,2023-04-21,Basic,Brazil,Website
+U0824,2023-09-06,Basic,USA,Mobile App
+U0825,2023-05-31,Basic,Brazil,Mobile App
+U0826,2023-07-02,Basic,UK,Website
+U0827,2023-12-02,Basic,USA,Mobile App
+U0828,2023-04-05,Basic,India,Website
+U0829,2023-01-08,Family,India,Mobile App
+U0830,2023-12-26,Premium,Germany,Mobile App
+U0831,2023-07-03,Basic,UK,Mobile App
+U0832,2023-10-08,Premium,UK,Website
+U0833,2023-07-14,Premium,India,Mobile App
+U0834,2023-12-18,Basic,Brazil,Website
+U0835,2023-07-14,Basic,USA,Website
+U0836,2023-06-04,Basic,Brazil,Mobile App
+U0837,2023-04-03,Basic,Brazil,Mobile App
+U0838,2023-06-09,Premium,India,Website
+U0839,2023-03-02,Basic,India,Website
+U0840,2023-05-02,Premium,India,Referral
+U0841,2023-02-20,Premium,Germany,Website
+U0842,2023-10-04,Basic,Brazil,Referral
+U0843,2023-01-05,Premium,UK,Referral
+U0844,2023-04-02,Basic,USA,Referral
+U0845,2023-06-19,Family,Germany,Mobile App
+U0846,2023-11-13,Basic,UK,Mobile App
+U0847,2023-01-22,Family,Brazil,Website
+U0848,2023-11-22,Premium,India,Referral
+U0849,2023-01-01,Basic,Brazil,Mobile App
+U0850,2023-05-13,Premium,USA,Mobile App
+U0851,2023-08-21,Family,Germany,Mobile App
+U0852,2023-01-12,Premium,Germany,Mobile App
+U0853,2023-12-12,Family,USA,Mobile App
+U0854,2023-02-15,Family,UK,Referral
+U0855,2023-02-03,Basic,UK,Referral
+U0856,2023-03-19,Basic,Germany,Referral
+U0857,2023-08-06,Premium,Germany,Referral
+U0858,2023-10-28,Basic,India,Website
+U0859,2023-03-14,Family,UK,Referral
+U0860,2023-10-09,Family,USA,Mobile App
+U0861,2023-09-06,Basic,UK,Referral
+U0862,2023-02-16,Basic,India,Website
+U0863,2023-05-01,Premium,Germany,Mobile App
+U0864,2023-08-02,Basic,Germany,Referral
+U0865,2023-08-27,Family,India,Referral
+U0866,2023-02-25,Basic,USA,Referral
+U0867,2023-12-16,Premium,Germany,Mobile App
+U0868,2023-04-17,Basic,Brazil,Mobile App
+U0869,2023-11-15,Premium,Germany,Website
+U0870,2023-02-17,Basic,Brazil,Mobile App
+U0871,2023-03-02,Premium,India,Mobile App
+U0872,2023-12-03,Basic,India,Referral
+U0873,2023-01-26,Premium,Germany,Mobile App
+U0874,2023-10-19,Family,UK,Referral
+U0875,2023-09-14,Basic,Brazil,Referral
+U0876,2023-01-08,Basic,USA,Mobile App
+U0877,2023-04-23,Basic,Germany,Website
+U0878,2023-12-21,Premium,USA,Website
+U0879,2023-09-10,Premium,Germany,Mobile App
+U0880,2023-06-29,Premium,UK,Website
+U0881,2023-07-26,Basic,UK,Referral
+U0882,2023-10-30,Basic,UK,Referral
+U0883,2023-05-07,Premium,UK,Mobile App
+U0884,2023-02-25,Basic,India,Website
+U0885,2023-08-02,Family,India,Website
+U0886,2023-01-14,Basic,Brazil,Referral
+U0887,2023-01-28,Premium,USA,Mobile App
+U0888,2023-03-19,Basic,Germany,Website
+U0889,2023-08-04,Basic,Germany,Mobile App
+U0890,2023-12-31,Premium,India,Website
+U0891,2023-06-03,Premium,Germany,Referral
+U0892,2023-01-14,Family,India,Referral
+U0893,2023-07-06,Basic,Brazil,Mobile App
+U0894,2023-11-08,Basic,USA,Referral
+U0895,2023-01-07,Premium,Brazil,Website
+U0896,2023-01-03,Premium,UK,Referral
+U0897,2023-04-21,Basic,UK,Mobile App
+U0898,2023-08-26,Basic,UK,Mobile App
+U0899,2023-12-29,Basic,Brazil,Mobile App
+U0900,2023-08-27,Family,Germany,Website
+U0901,2023-10-01,Basic,USA,Website
+U0902,2023-10-21,Basic,UK,Website
+U0903,2023-08-15,Basic,UK,Website
+U0904,2023-01-15,Basic,UK,Website
+U0905,2023-07-11,Basic,USA,Referral
+U0906,2023-04-29,Premium,UK,Website
+U0907,2023-01-28,Basic,USA,Website
+U0908,2023-07-21,Family,UK,Referral
+U0909,2023-02-08,Basic,Brazil,Website
+U0910,2023-09-30,Premium,Brazil,Mobile App
+U0911,2023-08-19,Family,USA,Website
+U0912,2023-03-27,Premium,Brazil,Website
+U0913,2023-05-06,Premium,USA,Mobile App
+U0914,2023-10-27,Basic,Brazil,Mobile App
+U0915,2023-01-25,Basic,Brazil,Mobile App
+U0916,2023-05-25,Premium,USA,Mobile App
+U0917,2023-01-13,Family,Germany,Website
+U0918,2023-07-31,Premium,Brazil,Mobile App
+U0919,2023-01-25,Premium,UK,Mobile App
+U0920,2023-03-09,Premium,Germany,Referral
+U0921,2023-03-08,Basic,USA,Mobile App
+U0922,2023-08-21,Basic,Germany,Mobile App
+U0923,2023-04-19,Premium,India,Referral
+U0924,2023-05-26,Family,India,Referral
+U0925,2023-04-21,Basic,Brazil,Website
+U0926,2023-08-16,Premium,Brazil,Referral
+U0927,2023-04-21,Basic,UK,Website
+U0928,2023-02-03,Premium,Germany,Referral
+U0929,2023-04-21,Basic,India,Referral
+U0930,2023-09-21,Basic,Brazil,Website
+U0931,2023-08-24,Premium,Germany,Referral
+U0932,2023-03-24,Basic,Brazil,Website
+U0933,2023-02-11,Premium,Brazil,Referral
+U0934,2023-04-11,Premium,India,Mobile App
+U0935,2023-01-06,Family,India,Referral
+U0936,2023-06-29,Basic,Brazil,Website
+U0937,2023-10-09,Basic,USA,Referral
+U0938,2023-11-16,Basic,Brazil,Website
+U0939,2023-08-14,Family,Brazil,Website
+U0940,2023-11-11,Family,UK,Mobile App
+U0941,2023-12-31,Premium,UK,Mobile App
+U0942,2023-08-17,Family,UK,Website
+U0943,2023-10-16,Premium,USA,Referral
+U0944,2023-05-30,Premium,USA,Website
+U0945,2023-10-04,Basic,Brazil,Website
+U0946,2023-07-17,Premium,UK,Referral
+U0947,2023-03-11,Basic,USA,Referral
+U0948,2023-04-22,Family,India,Referral
+U0949,2023-01-04,Premium,Brazil,Referral
+U0950,2023-12-16,Premium,Germany,Website
+U0951,2023-11-27,Basic,Brazil,Website
+U0952,2023-11-14,Basic,Germany,Mobile App
+U0953,2023-12-16,Basic,UK,Website
+U0954,2023-04-05,Basic,Germany,Referral
+U0955,2023-06-01,Basic,UK,Mobile App
+U0956,2023-11-07,Family,India,Referral
+U0957,2023-05-17,Premium,Germany,Website
+U0958,2023-09-04,Basic,Brazil,Mobile App
+U0959,2023-08-31,Basic,UK,Referral
+U0960,2023-01-31,Basic,Brazil,Mobile App
+U0961,2023-02-09,Premium,USA,Mobile App
+U0962,2023-08-17,Premium,UK,Website
+U0963,2023-02-05,Family,Germany,Referral
+U0964,2023-08-11,Basic,UK,Mobile App
+U0965,2023-01-06,Family,Brazil,Mobile App
+U0966,2023-11-18,Family,India,Referral
+U0967,2023-08-08,Basic,UK,Mobile App
+U0968,2023-03-16,Family,Germany,Mobile App
+U0969,2023-01-04,Basic,USA,Mobile App
+U0970,2023-12-01,Family,India,Referral
+U0971,2023-05-14,Basic,USA,Referral
+U0972,2023-04-28,Family,UK,Referral
+U0973,2023-04-04,Family,Brazil,Referral
+U0974,2023-03-03,Family,Brazil,Website
+U0975,2023-07-13,Premium,Germany,Mobile App
+U0976,2023-12-01,Basic,Brazil,Referral
+U0977,2023-07-22,Basic,India,Mobile App
+U0978,2023-01-26,Basic,Brazil,Mobile App
+U0979,2023-06-22,Basic,Germany,Website
+U0980,2023-10-27,Premium,UK,Referral
+U0981,2023-05-13,Basic,UK,Referral
+U0982,2023-11-22,Family,Brazil,Mobile App
+U0983,2023-04-28,Premium,USA,Referral
+U0984,2023-11-20,Family,UK,Mobile App
+U0985,2023-10-02,Basic,Brazil,Mobile App
+U0986,2023-07-31,Family,Germany,Website
+U0987,2023-08-13,Family,Brazil,Website
+U0988,2023-01-20,Basic,UK,Website
+U0989,2023-04-23,Premium,Germany,Mobile App
+U0990,2023-05-20,Premium,Brazil,Referral
+U0991,2023-02-16,Basic,India,Website
+U0992,2023-01-01,Premium,Germany,Referral
+U0993,2023-03-31,Basic,India,Website
+U0994,2023-05-22,Basic,USA,Website
+U0995,2023-11-16,Basic,Germany,Mobile App
+U0996,2023-02-07,Basic,India,Website
+U0997,2023-10-20,Basic,UK,Website
+U0998,2023-05-19,Basic,UK,Mobile App
+U0999,2023-12-22,Family,USA,Referral
+U1000,2023-11-29,Premium,Germany,Website
